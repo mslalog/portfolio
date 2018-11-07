@@ -1,0 +1,37 @@
+body {
+	background-image: url("../images/bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Source Code Pro', monospace;
+	}
+	h1 {
+		color: black;
+		font-size: 40px;
+		font-weight: bolder;
+		margin-bottom: 0;
+	}
+	h2 {
+		color: black;
+		font-size: 18px;
+		font-weight: bold;
+		margin-top: 0;
+	}
+	.bio {
+		background-color: rgba(0,0,0,0.2);
+		color: white;
+		font-size: 14px;
+		}
+
+	.me {
+		height: 150px;
+		border-radius: 100%;
+		border-style: solid;
+		border-color: rgb(7,47,112);
+		margin-top: 150px;
+	}
+	#container {
+		width: 700px;
+		margin: 0 auto;
+		text-align: center;
+	}
+}
